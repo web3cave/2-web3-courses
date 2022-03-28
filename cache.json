@@ -101,9 +101,9 @@
           "description": "Learn by coding smart contracts, NFTs, tokens and more with our free courses. Then earn an NFT Certificate that unlocks exclusive job opportunities and perks.",
           "link": "https://cadena.incl.us/",
           "publishedOn": "2022-03-23T05:54:24.000Z",
-          "wordCount": 1109,
+          "wordCount": null,
           "title": "Cadena",
-          "imageUrl": "https://cadena.incl.us/wp-content/uploads/2021/11/fb-share-cadena-2.png"
+          "imageUrl": null
         },
         {
           "id": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-03-23T05:54:24.000Z",
-          "wordCount": 282,
+          "wordCount": 286,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
