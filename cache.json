@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 1676,
+          "wordCount": 1731,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/c4f6c0bd48105bb23681d0ae182330ffc0c023a7dbe44caa08f6fc9f2765d920/hyperledger-labs/university-course"
         },
@@ -151,9 +151,9 @@
           "description": "Learn how to design and create decentralized finance platforms on the Ethereum Blockchain",
           "link": "https://www.defi-academy.com/",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": null,
+          "wordCount": 362,
           "title": "Defi Academy",
-          "imageUrl": null
+          "imageUrl": "https://s3.amazonaws.com/thinkific-import/279696/Xv8Tb6nKQ2eJZAhnlBdb_undraw_researching_22gp_4371ea2bfc6ee2c83bad983260e60a40_png"
         },
         {
           "id": "https://proto.school/course/ipfs",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 282,
+          "wordCount": 281,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
