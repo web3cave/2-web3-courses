@@ -143,7 +143,7 @@
           "publishedOn": "2022-04-02T06:42:13.000Z",
           "wordCount": 1676,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/0be6b3403f87b0d2b023d26d1223ca4b1e600eac564d4a46f74139e9a26dd351/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/36aa60ba0dd576c3ddc9912657be3fda93f335e302d398fbd03b5a8f1452f5bd/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 284,
+          "wordCount": 286,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
