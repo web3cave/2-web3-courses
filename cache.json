@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "",
+          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": null,
+          "wordCount": 785,
           "title": "OurNetwork",
-          "imageUrl": null
+          "imageUrl": "https://images.mirror-media.xyz/nft/ehIagPCP1vqES_9qSTNMA.png"
         },
         {
           "id": "https://cadena.incl.us/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 282,
+          "wordCount": 284,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
