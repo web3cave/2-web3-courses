@@ -141,9 +141,9 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 1676,
+          "wordCount": 1707,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/3b1e425fb9db95da155e2d3ffc8de3cba28797d60a6fbddd59a0af7c6c3cc68f/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/97228775bbcf1f5532709237d1c02efb3b189576f202cc4e433aeb5fd376ab32/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 281,
+          "wordCount": 284,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
