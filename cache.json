@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 1731,
+          "wordCount": 1707,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/46d2858c15c8aff8658eb2c23a7da72c069d119c10da028cbf5a8f3c3a91d586/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 283,
+          "wordCount": 281,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -183,7 +183,7 @@
           "publishedOn": "2022-04-02T06:42:13.000Z",
           "wordCount": 315,
           "title": "buildspace",
-          "imageUrl": "https://uploads-ssl.webflow.com/62323c71bbabee32654e6d25/625ebbac9bdae45013aaa456_bs-meta-card.png"
+          "imageUrl": "https://uploads-ssl.webflow.com/62323c71bbabee32654e6d25/6269ddfb13024312636f3598_home-page-banner.png"
         },
         {
           "id": "https://www.chainshot.com/",
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-04-02T06:42:13.000Z",
-          "wordCount": 2192,
+          "wordCount": 2188,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
