@@ -131,9 +131,9 @@
           "description": "The Web 3 education platform for developers, by developers.",
           "link": "https://learn.figment.io/",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": 249,
+          "wordCount": null,
           "title": "Figment Learn",
-          "imageUrl": "https://figment.io/wp-content/uploads/2019/08/figment-networks-logo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://github.com/hyperledger-labs/university-course",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": 284,
+          "wordCount": 285,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
