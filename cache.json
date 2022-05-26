@@ -143,7 +143,7 @@
           "publishedOn": "2022-05-02T06:09:58.000Z",
           "wordCount": 1708,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/6794f9a2ce7cbe01fc9b278a2ff58dbe2b0cc2df9c148f228cc2983d21038c6e/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/c988e47e856e45a76ca2b36e3154fc268daf3ddbf105464d4f01123501704ef3/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": 283,
+          "wordCount": 287,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -241,9 +241,9 @@
           "description": "Learn How to Build a Crypto Company",
           "link": "https://a16z.com/crypto-startup-school/",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": 2821,
+          "wordCount": null,
           "title": "Crypto-Startup-School",
-          "imageUrl": "https://a16z.com/wp-content/uploads/2020/05/CSS-FeaturedIMage.jpg"
+          "imageUrl": null
         }
       ]
     }
