@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "",
+          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": null,
+          "wordCount": 732,
           "title": "OurNetwork",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://cadena.incl.us/",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": 1732,
+          "wordCount": 1677,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/c988e47e856e45a76ca2b36e3154fc268daf3ddbf105464d4f01123501704ef3/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-05-02T06:09:58.000Z",
-          "wordCount": 284,
+          "wordCount": 285,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
