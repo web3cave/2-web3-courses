@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 1735,
+          "wordCount": 1680,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/c988e47e856e45a76ca2b36e3154fc268daf3ddbf105464d4f01123501704ef3/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 288,
+          "wordCount": 287,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -181,9 +181,9 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": null,
+          "wordCount": 319,
           "title": "buildspace",
-          "imageUrl": null
+          "imageUrl": "https://uploads-ssl.webflow.com/62323c71bbabee32654e6d25/6269ddfb13024312636f3598_home-page-banner.png"
         },
         {
           "id": "https://www.chainshot.com/",
