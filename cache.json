@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 285,
+          "wordCount": 288,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -181,9 +181,9 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 319,
+          "wordCount": null,
           "title": "buildspace",
-          "imageUrl": "https://uploads-ssl.webflow.com/62323c71bbabee32654e6d25/6269ddfb13024312636f3598_home-page-banner.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.chainshot.com/",
