@@ -11,7 +11,7 @@
           "description": "Build web3 apps, easily.\nSmart contracts you control. Tools that accelerate your workflow.\nIntuitive SDKs and widgets for developers.",
           "link": "https://twitter.com/thirdweb_",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": null,
+          "wordCount": 352,
           "title": "thirdweb",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Blockchain Development\nCovering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.",
           "link": "https://twitter.com/web3university",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": null,
+          "wordCount": 352,
           "title": "Web3 University",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Web2 += 1\nCurious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!",
           "link": "https://twitter.com/LearnWeb3DAO",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": null,
+          "wordCount": 352,
           "title": "Learn Web3",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing",
           "link": "https://twitter.com/useWeb3",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": null,
+          "wordCount": 352,
           "title": "useWeb3",
           "imageUrl": null
         },
@@ -51,7 +51,7 @@
           "description": "Building the worlds first University DAO. One where learning is always free. Download the app & Learn Web3 now",
           "link": "https://twitter.com/questbookapp",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": null,
+          "wordCount": 352,
           "title": "Questbook",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 1656,
+          "wordCount": 1711,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/18050740b0eab6377c7ecaf557a408bc57ede69372c4295e885fd61487f53c20/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 529,
+          "wordCount": 531,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
