@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 1682,
+          "wordCount": 1737,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/77f3d81b0cdd062f4d20493834c4a993e5e9299d22c1c48e65e282990ae9de34/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 529,
+          "wordCount": 532,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-06-02T06:11:00.000Z",
-          "wordCount": 13234,
+          "wordCount": 13243,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
