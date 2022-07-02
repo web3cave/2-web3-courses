@@ -1,8 +1,258 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-02T05:22:09.005Z</id>
+    <id>urn:2022-07-02T06:25:52.315Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-02T05:22:09.005Z</updated>
+    <updated>2022-07-02T06:25:52.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[thirdweb]]></title>
+        <id>https://twitter.com/thirdweb_</id>
+        <link href="https://twitter.com/thirdweb_"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Build web3 apps, easily.
+Smart contracts you control. Tools that accelerate your workflow.
+Intuitive SDKs and widgets for developers.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 University]]></title>
+        <id>https://twitter.com/web3university</id>
+        <link href="https://twitter.com/web3university"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain Development
+Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Web3]]></title>
+        <id>https://twitter.com/LearnWeb3DAO</id>
+        <link href="https://twitter.com/LearnWeb3DAO"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Web2 += 1
+Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useWeb3]]></title>
+        <id>https://twitter.com/useWeb3</id>
+        <link href="https://twitter.com/useWeb3"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questbook]]></title>
+        <id>https://twitter.com/questbookapp</id>
+        <link href="https://twitter.com/questbookapp"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Building the worlds first University DAO. One where learning is always free. Download the app & Learn Web3 now]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT School]]></title>
+        <id>https://nftschool.dev/</id>
+        <link href="https://nftschool.dev/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[A collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pointer]]></title>
+        <id>https://www.pointer.gg/</id>
+        <link href="https://www.pointer.gg/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[learn how to build web3 apps
+Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3Wiki]]></title>
+        <id>http://wiki.antcave.club/</id>
+        <link href="http://wiki.antcave.club/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[A  Web3 WIKI for Developer]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OurNetwork]]></title>
+        <id>https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ</id>
+        <link href="https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cadena]]></title>
+        <id>https://cadena.incl.us/</id>
+        <link href="https://cadena.incl.us/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn by coding smart contracts, NFTs, tokens and more with our free courses. Then earn an NFT Certificate that unlocks exclusive job opportunities and perks.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Practical NFT Ticketing]]></title>
+        <id>https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c</id>
+        <link href="https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Build a Practical NFT Ticketing Service with Solidity and React]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encode Bootcamps]]></title>
+        <id>https://www.encode.club/encode-bootcamps</id>
+        <link href="https://www.encode.club/encode-bootcamps"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Apply for our free intensive bootcamps
+and become a web3 developer!]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figment Learn]]></title>
+        <id>https://learn.figment.io/</id>
+        <link href="https://learn.figment.io/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The Web 3 education platform for developers, by developers.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprise Blockchain Technologies]]></title>
+        <id>https://github.com/hyperledger-labs/university-course</id>
+        <link href="https://github.com/hyperledger-labs/university-course"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defi Academy]]></title>
+        <id>https://www.defi-academy.com/</id>
+        <link href="https://www.defi-academy.com/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to design and create decentralized finance platforms on the Ethereum Blockchain]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPFS Course]]></title>
+        <id>https://proto.school/course/ipfs</id>
+        <link href="https://proto.school/course/ipfs"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The InterPlanetary File System (IPFS) is a peer-to-peer network protocol for storing and sharing data in a distributed file system, with addresses based on content, not location.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptoHack]]></title>
+        <id>https://cryptohack.org/</id>
+        <link href="https://cryptohack.org/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[A fun, free platform for learning modern cryptography]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[buildspace]]></title>
+        <id>https://buildspace.so/</id>
+        <link href="https://buildspace.so/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The world's largest on-chain network.
+If you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChainShot]]></title>
+        <id>https://www.chainshot.com/</id>
+        <link href="https://www.chainshot.com/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Fast-Track
+Your Ethereum Developer Career
+Join a 100% live and online Bootcamp
+Acquire highly desired skills in blockchain and smart contracts]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with blockchain development]]></title>
+        <id>https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/</id>
+        <link href="https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[This learning path introduces you to blockchain and development on the Ethereum platform. Discover what skills are necessary to learn to begin building your own blockchain networks at scale.]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Specialization]]></title>
+        <id>https://www.coursera.org/specializations/blockchain</id>
+        <link href="https://www.coursera.org/specializations/blockchain"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Developer Online Bootcamp]]></title>
+        <id>https://consensys.net/academy/</id>
+        <link href="https://consensys.net/academy/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Berkeley]]></title>
+        <id>https://blockchain.berkeley.edu/courses/</id>
+        <link href="https://blockchain.berkeley.edu/courses/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[DECAL COURSES ON CAMPUS AND EDX COURSES ONLINE]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto-Startup-School]]></title>
+        <id>https://a16z.com/crypto-startup-school/</id>
+        <link href="https://a16z.com/crypto-startup-school/"/>
+        <updated>2022-07-02T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn How to Build a Crypto Company]]></summary>
+        <author>
+            <name>Web3 Courses RSS</name>
+        </author>
+    </entry>
 </feed>
