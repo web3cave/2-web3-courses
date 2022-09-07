@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 520,
+          "wordCount": 526,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -201,9 +201,9 @@
           "description": "This learning path introduces you to blockchain and development on the Ethereum platform. Discover what skills are necessary to learn to begin building your own blockchain networks at scale.",
           "link": "https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": null,
+          "wordCount": 407,
           "title": "Get started with blockchain development",
-          "imageUrl": null
+          "imageUrl": "https://docs.microsoft.com/learn/achievements/ethereum-blockchain-development-social.png"
         },
         {
           "id": "https://www.coursera.org/specializations/blockchain",
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 12573,
+          "wordCount": 12569,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
