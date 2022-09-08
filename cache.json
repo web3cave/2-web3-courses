@@ -151,9 +151,9 @@
           "description": "Learn how to design and create decentralized finance platforms on the Ethereum Blockchain",
           "link": "https://www.defi-academy.com/",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 7527,
+          "wordCount": null,
           "title": "Defi Academy",
-          "imageUrl": "https://s3.amazonaws.com/thinkific-import/279696/Xv8Tb6nKQ2eJZAhnlBdb_undraw_researching_22gp_4371ea2bfc6ee2c83bad983260e60a40_png"
+          "imageUrl": null
         },
         {
           "id": "https://proto.school/course/ipfs",
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 12572,
+          "wordCount": 12577,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
