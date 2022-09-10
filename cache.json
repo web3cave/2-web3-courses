@@ -111,9 +111,9 @@
           "description": "Build a Practical NFT Ticketing Service with Solidity and React",
           "link": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": null,
+          "wordCount": 3284,
           "title": "Build a Practical NFT Ticketing",
-          "imageUrl": null
+          "imageUrl": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1643223614/course-resources/build-an-nft-based-ticketing-system-1a2f387c/og-image--build-an-nft-based-ticketing-system_2x.png"
         },
         {
           "id": "https://www.encode.club/encode-bootcamps",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 1771,
+          "wordCount": 1795,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/3c64a8f404464db523bdefa363f8eceb4b6aded0e5c0d51e342b3650b7b1fabf/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 522,
+          "wordCount": 518,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 12570,
+          "wordCount": 12580,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
