@@ -11,7 +11,7 @@
           "description": "Build web3 apps, easily.\nSmart contracts you control. Tools that accelerate your workflow.\nIntuitive SDKs and widgets for developers.",
           "link": "https://twitter.com/thirdweb_",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 390,
+          "wordCount": null,
           "title": "thirdweb",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Blockchain Development\nCovering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.",
           "link": "https://twitter.com/web3university",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 390,
+          "wordCount": 384,
           "title": "Web3 University",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Web2 += 1\nCurious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!",
           "link": "https://twitter.com/LearnWeb3DAO",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 390,
+          "wordCount": 384,
           "title": "Learn Web3",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing",
           "link": "https://twitter.com/useWeb3",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 390,
+          "wordCount": null,
           "title": "useWeb3",
           "imageUrl": null
         },
@@ -51,7 +51,7 @@
           "description": "Building the worlds first University DAO. One where learning is always free. Download the app & Learn Web3 now",
           "link": "https://twitter.com/questbookapp",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 390,
+          "wordCount": 384,
           "title": "Questbook",
           "imageUrl": null
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 12602,
+          "wordCount": 12605,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
