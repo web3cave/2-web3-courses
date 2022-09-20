@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 1795,
+          "wordCount": 1771,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/a23e53ac5692aa30160b9eb6fa7bf57c31661c776f11f4cf509a47933e765f23/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-09-02T06:32:44.000Z",
-          "wordCount": 520,
+          "wordCount": 523,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
