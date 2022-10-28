@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2022-10-02T06:18:55.000Z",
-          "wordCount": 1120,
+          "wordCount": 1088,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-10-02T06:18:55.000Z",
-          "wordCount": 530,
+          "wordCount": 527,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-10-02T06:18:55.000Z",
-          "wordCount": 13883,
+          "wordCount": 12712,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
@@ -221,7 +221,7 @@
           "description": "Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!",
           "link": "https://consensys.net/academy/",
           "publishedOn": "2022-10-02T06:18:55.000Z",
-          "wordCount": 2355,
+          "wordCount": 2347,
           "title": "Blockchain Developer Online Bootcamp",
           "imageUrl": null
         },
@@ -231,7 +231,7 @@
           "description": "DECAL COURSES ON CAMPUS AND EDX COURSES ONLINE",
           "link": "https://blockchain.berkeley.edu/courses/",
           "publishedOn": "2022-10-02T06:18:55.000Z",
-          "wordCount": 19,
+          "wordCount": null,
           "title": "Blockchain Berkeley",
           "imageUrl": null
         },
