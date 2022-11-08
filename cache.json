@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
+          "description": "",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 2318,
+          "wordCount": null,
           "title": "OurNetwork",
-          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
+          "imageUrl": null
         },
         {
           "id": "https://cadena.incl.us/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 521,
+          "wordCount": 523,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 13881,
+          "wordCount": 12717,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
