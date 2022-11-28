@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
+          "description": "",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 2326,
+          "wordCount": null,
           "title": "OurNetwork",
-          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
+          "imageUrl": null
         },
         {
           "id": "https://cadena.incl.us/",
@@ -111,7 +111,7 @@
           "description": "Build a Practical NFT Ticketing Service with Solidity and React",
           "link": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 3284,
+          "wordCount": 3285,
           "title": "Build a Practical NFT Ticketing",
           "imageUrl": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1643223614/course-resources/build-an-nft-based-ticketing-system-1a2f387c/og-image--build-an-nft-based-ticketing-system_2x.png"
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 1878,
+          "wordCount": 1847,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/d73caf2b373baf7d7733bc0b12bb096e99743294a11018fd1cdba26bd9249f7c/hyperledger-labs/university-course"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-11-02T06:15:23.000Z",
-          "wordCount": 12709,
+          "wordCount": 12702,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
