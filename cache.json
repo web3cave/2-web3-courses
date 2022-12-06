@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 1101,
+          "wordCount": 1111,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 1822,
+          "wordCount": 1846,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/70b8df3609d9a212d3e7383ae486f75d84278247e2eaa6fc838690ba7a0ba15c/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 519,
+          "wordCount": 521,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 12724,
+          "wordCount": 12704,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
