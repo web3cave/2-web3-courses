@@ -61,9 +61,9 @@
           "description": "A collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs.",
           "link": "https://nftschool.dev/",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": null,
+          "wordCount": 503,
           "title": "NFT School",
-          "imageUrl": null
+          "imageUrl": "https://nftschool.dev/images/social-card.png"
         },
         {
           "id": "https://www.pointer.gg/",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 1822,
+          "wordCount": 1901,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/32d77397e6a1c8e8d87448defef5dcd1b159fdda5725fff56f4bfabc84227d70/hyperledger-labs/university-course"
         },
@@ -161,9 +161,9 @@
           "description": "The InterPlanetary File System (IPFS) is a peer-to-peer network protocol for storing and sharing data in a distributed file system, with addresses based on content, not location.",
           "link": "https://proto.school/course/ipfs",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": null,
+          "wordCount": 665,
           "title": "IPFS Course",
-          "imageUrl": null
+          "imageUrl": "https://proto.school/social-tiles/twitter/courses/ipfs.jpg"
         },
         {
           "id": "https://cryptohack.org/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 531,
+          "wordCount": 532,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -221,7 +221,7 @@
           "description": "Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!",
           "link": "https://consensys.net/academy/",
           "publishedOn": "2022-12-02T06:09:15.000Z",
-          "wordCount": 2344,
+          "wordCount": null,
           "title": "Blockchain Developer Online Bootcamp",
           "imageUrl": null
         },
