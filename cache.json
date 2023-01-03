@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-01-02T06:09:23.000Z",
-          "wordCount": 90059,
+          "wordCount": 64707,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-01-02T06:09:23.000Z",
-          "wordCount": 1822,
+          "wordCount": 1846,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/04d1f22fb4929b8bb8ce65df2e5457dc1956ac47b85de57c7e10e973149ae08e/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-01-02T06:09:23.000Z",
-          "wordCount": 536,
+          "wordCount": 535,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -181,7 +181,7 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2023-01-02T06:09:23.000Z",
-          "wordCount": 2895,
+          "wordCount": 2901,
           "title": "buildspace",
           "imageUrl": "https://framerusercontent.com/images/4xoiZTOAb9x3EbIHsI1U02KK10.jpg"
         },
