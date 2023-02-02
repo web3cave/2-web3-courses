@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
+          "description": "",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 2326,
+          "wordCount": null,
           "title": "OurNetwork",
-          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
+          "imageUrl": null
         },
         {
           "id": "https://cadena.incl.us/",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 1885,
+          "wordCount": 1909,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/7b2b9f096702df77ab9885dbcb1437516b1b84c0cffb580b1fdbbcc1084810b7/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 536,
+          "wordCount": 532,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 12838,
+          "wordCount": 12836,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
