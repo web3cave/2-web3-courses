@@ -81,19 +81,19 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 1718,
+          "wordCount": 1706,
           "title": "Web3Wiki",
           "imageUrl": null
         },
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "",
+          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": null,
+          "wordCount": 2326,
           "title": "OurNetwork",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://cadena.incl.us/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 538,
+          "wordCount": 534,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 12836,
+          "wordCount": 12838,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
