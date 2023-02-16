@@ -121,7 +121,7 @@
           "description": "Apply for our free intensive bootcamps\nand become a web3 developer!",
           "link": "https://www.encode.club/encode-bootcamps",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 1447,
+          "wordCount": 1462,
           "title": "Encode Bootcamps",
           "imageUrl": "http://static1.squarespace.com/static/5f9bcc27c14fc6134658484b/t/5fd87e43c1688b1bab9939ac/1608550059538/Social_banner_01.jpg?format=1500w"
         },
@@ -143,7 +143,7 @@
           "publishedOn": "2023-02-02T06:09:08.000Z",
           "wordCount": 1909,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/65fbf434c5407ddb970eb256940771608cf2f25db06030cabd67754a65432495/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/444195e76e2dc860cc649e88fa2f9a526a080f33c90add4e5a4c232ff8a5235e/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 537,
+          "wordCount": 538,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
