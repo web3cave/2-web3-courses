@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 1721,
+          "wordCount": 1717,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 1885,
+          "wordCount": 1909,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/444195e76e2dc860cc649e88fa2f9a526a080f33c90add4e5a4c232ff8a5235e/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 533,
+          "wordCount": 538,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
