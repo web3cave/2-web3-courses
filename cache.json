@@ -61,9 +61,9 @@
           "description": "A collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs.",
           "link": "https://nftschool.dev/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 506,
+          "wordCount": null,
           "title": "NFT School",
-          "imageUrl": "https://nftschool.dev/images/social-card.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.pointer.gg/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 533,
+          "wordCount": 531,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
