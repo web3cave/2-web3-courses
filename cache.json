@@ -61,9 +61,9 @@
           "description": "A collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs.",
           "link": "https://nftschool.dev/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": null,
+          "wordCount": 506,
           "title": "NFT School",
-          "imageUrl": null
+          "imageUrl": "https://nftschool.dev/images/social-card.png"
         },
         {
           "id": "https://www.pointer.gg/",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 1846,
+          "wordCount": 1909,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/ec7944cbcdeaa20db42667b45413c7e7fb55e5ec21a768b7d88e7db23a18a697/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-02-02T06:09:08.000Z",
-          "wordCount": 531,
+          "wordCount": 536,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
