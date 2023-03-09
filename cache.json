@@ -41,7 +41,7 @@
           "description": "A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing",
           "link": "https://twitter.com/useWeb3",
           "publishedOn": "2023-03-02T06:10:12.000Z",
-          "wordCount": 476,
+          "wordCount": 513,
           "title": "useWeb3",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-03-02T06:10:12.000Z",
-          "wordCount": 1939,
+          "wordCount": 2005,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/6eed14fc2e5aac0a18f015114f0f0a106128350ef4afc85bfe5e2600ec158a1e/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-03-02T06:10:12.000Z",
-          "wordCount": 532,
+          "wordCount": 533,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
