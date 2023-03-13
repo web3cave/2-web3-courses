@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-03-02T06:10:12.000Z",
-          "wordCount": 1726,
+          "wordCount": 1719,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -143,7 +143,7 @@
           "publishedOn": "2023-03-02T06:10:12.000Z",
           "wordCount": 1939,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/802a928b1e6e066dd8c49d6d0ecd00746f859de6a409a83d54409d12744ce324/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/1a5b30dac27968da9c69cd1350e1eb5dbe7c4f098aa78f4564efda0500f2d820/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-03-02T06:10:12.000Z",
-          "wordCount": 532,
+          "wordCount": 533,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2023-03-02T06:10:12.000Z",
-          "wordCount": 14083,
+          "wordCount": 12880,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
