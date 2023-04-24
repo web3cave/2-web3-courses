@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "",
+          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": null,
+          "wordCount": 2326,
           "title": "OurNetwork",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://cadena.incl.us/",
@@ -111,9 +111,9 @@
           "description": "Build a Practical NFT Ticketing Service with Solidity and React",
           "link": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": null,
+          "wordCount": 3285,
           "title": "Build a Practical NFT Ticketing",
-          "imageUrl": null
+          "imageUrl": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1643223614/course-resources/build-an-nft-based-ticketing-system-1a2f387c/og-image--build-an-nft-based-ticketing-system_2x.png"
         },
         {
           "id": "https://www.encode.club/encode-bootcamps",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 536,
+          "wordCount": 539,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
