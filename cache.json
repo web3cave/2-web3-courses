@@ -88,12 +88,12 @@
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "",
+          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": null,
+          "wordCount": 2326,
           "title": "OurNetwork",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://cadena.incl.us/",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 1941,
+          "wordCount": 2007,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/199d08e93c26ff2d29fa617f52729b65b0f770885ef9b7a2be8e8560f588a600/hyperledger-labs/university-course"
         },
