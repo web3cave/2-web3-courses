@@ -11,7 +11,7 @@
           "description": "Build web3 apps, easily.\nSmart contracts you control. Tools that accelerate your workflow.\nIntuitive SDKs and widgets for developers.",
           "link": "https://twitter.com/thirdweb_",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "thirdweb",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Blockchain Development\nCovering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.",
           "link": "https://twitter.com/web3university",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Web3 University",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Web2 += 1\nCurious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!",
           "link": "https://twitter.com/LearnWeb3DAO",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Learn Web3",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing",
           "link": "https://twitter.com/useWeb3",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "useWeb3",
           "imageUrl": null
         },
@@ -51,7 +51,7 @@
           "description": "Building the worlds first University DAO. One where learning is always free. Download the app & Learn Web3 now",
           "link": "https://twitter.com/questbookapp",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Questbook",
           "imageUrl": null
         },
@@ -71,7 +71,7 @@
           "description": "learn how to build web3 apps\nLearn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!",
           "link": "https://www.pointer.gg/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 393,
+          "wordCount": null,
           "title": "Pointer",
           "imageUrl": null
         },
@@ -81,19 +81,19 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 1715,
+          "wordCount": null,
           "title": "Web3Wiki",
           "imageUrl": null
         },
         {
           "id": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "author": null,
-          "description": "For anyone looking for an overview of the program more generally, check the original announcement post here. The students accepted and application methodology can be found here.",
+          "description": "",
           "link": "https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 2326,
+          "wordCount": null,
           "title": "OurNetwork",
-          "imageUrl": "https://mirror-media.imgix.net/nft/ehIagPCP1vqES_9qSTNMA.png?h=null&w=null&auto=compress"
+          "imageUrl": null
         },
         {
           "id": "https://cadena.incl.us/",
@@ -111,9 +111,9 @@
           "description": "Build a Practical NFT Ticketing Service with Solidity and React",
           "link": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 3285,
+          "wordCount": null,
           "title": "Build a Practical NFT Ticketing",
-          "imageUrl": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1643223614/course-resources/build-an-nft-based-ticketing-system-1a2f387c/og-image--build-an-nft-based-ticketing-system_2x.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.encode.club/encode-bootcamps",
@@ -121,9 +121,9 @@
           "description": "Apply for our free intensive bootcamps\nand become a web3 developer!",
           "link": "https://www.encode.club/encode-bootcamps",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 1467,
+          "wordCount": null,
           "title": "Encode Bootcamps",
-          "imageUrl": "http://static1.squarespace.com/static/5f9bcc27c14fc6134658484b/t/5fd87e43c1688b1bab9939ac/1608550059538/Social_banner_01.jpg?format=1500w"
+          "imageUrl": null
         },
         {
           "id": "https://learn.figment.io/",
@@ -131,9 +131,9 @@
           "description": "The Web 3 education platform for developers, by developers.",
           "link": "https://learn.figment.io/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 25094,
+          "wordCount": null,
           "title": "Figment Learn",
-          "imageUrl": "https://figment.io/wp-content/uploads/2019/08/figment-networks-logo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://github.com/hyperledger-labs/university-course",
@@ -141,9 +141,9 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 1841,
+          "wordCount": null,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/ea6918624552ff1dd2447ba326e547e61085b314f134bbb3733d442523e8287f/hyperledger-labs/university-course"
+          "imageUrl": null
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -151,9 +151,9 @@
           "description": "Learn how to design and create decentralized finance platforms on the Ethereum Blockchain",
           "link": "https://www.defi-academy.com/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 7679,
+          "wordCount": null,
           "title": "Defi Academy",
-          "imageUrl": "https://s3.amazonaws.com/thinkific-import/279696/Xv8Tb6nKQ2eJZAhnlBdb_undraw_researching_22gp_4371ea2bfc6ee2c83bad983260e60a40_png"
+          "imageUrl": null
         },
         {
           "id": "https://proto.school/course/ipfs",
@@ -161,9 +161,9 @@
           "description": "The InterPlanetary File System (IPFS) is a peer-to-peer network protocol for storing and sharing data in a distributed file system, with addresses based on content, not location.",
           "link": "https://proto.school/course/ipfs",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 665,
+          "wordCount": null,
           "title": "IPFS Course",
-          "imageUrl": "https://proto.school/social-tiles/twitter/courses/ipfs.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://cryptohack.org/",
@@ -171,9 +171,9 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 536,
+          "wordCount": null,
           "title": "CryptoHack",
-          "imageUrl": "https://cryptohack.org/static/img/banner.png"
+          "imageUrl": null
         },
         {
           "id": "https://buildspace.so/",
@@ -181,9 +181,9 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 2652,
+          "wordCount": null,
           "title": "buildspace",
-          "imageUrl": "https://framerusercontent.com/modules/kADP7da4j9rbsXdQ05Kv/enLdYtFPcpLQZiKgJhg9/assets/Gcd5kwF1v08DCMGFwxtyl93bpIQ.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.chainshot.com/",
@@ -191,9 +191,9 @@
           "description": "Fast-Track\nYour Ethereum Developer Career\nJoin a 100% live and online Bootcamp\nAcquire highly desired skills in blockchain and smart contracts",
           "link": "https://www.chainshot.com/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 50,
+          "wordCount": null,
           "title": "ChainShot",
-          "imageUrl": "http://res.cloudinary.com/divzjiip8/image/upload/v1529612088/center-out_lqp2jr.png"
+          "imageUrl": null
         },
         {
           "id": "https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/",
@@ -201,9 +201,9 @@
           "description": "This learning path introduces you to blockchain and development on the Ethereum platform. Discover what skills are necessary to learn to begin building your own blockchain networks at scale.",
           "link": "https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 391,
+          "wordCount": null,
           "title": "Get started with blockchain development",
-          "imageUrl": "https://learn.microsoft.com/training/achievements/ethereum-blockchain-development-social.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.coursera.org/specializations/blockchain",
@@ -211,9 +211,9 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 13962,
+          "wordCount": null,
           "title": "Blockchain Specialization",
-          "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://consensys.net/academy/",
@@ -221,7 +221,7 @@
           "description": "Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!",
           "link": "https://consensys.net/academy/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 2452,
+          "wordCount": null,
           "title": "Blockchain Developer Online Bootcamp",
           "imageUrl": null
         },
@@ -231,7 +231,7 @@
           "description": "DECAL COURSES ON CAMPUS AND EDX COURSES ONLINE",
           "link": "https://blockchain.berkeley.edu/courses/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 19,
+          "wordCount": null,
           "title": "Blockchain Berkeley",
           "imageUrl": null
         },
@@ -241,7 +241,7 @@
           "description": "Learn How to Build a Crypto Company",
           "link": "https://a16z.com/crypto-startup-school/",
           "publishedOn": "2023-04-02T06:07:59.000Z",
-          "wordCount": 6236,
+          "wordCount": null,
           "title": "Crypto-Startup-School",
           "imageUrl": null
         }
