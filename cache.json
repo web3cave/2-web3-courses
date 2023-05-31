@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-05-02T06:08:44.000Z",
-          "wordCount": 535,
+          "wordCount": 534,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -241,7 +241,7 @@
           "description": "Learn How to Build a Crypto Company",
           "link": "https://a16z.com/crypto-startup-school/",
           "publishedOn": "2023-05-02T06:08:44.000Z",
-          "wordCount": 6237,
+          "wordCount": null,
           "title": "Crypto-Startup-School",
           "imageUrl": null
         }
