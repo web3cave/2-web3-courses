@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 1811,
+          "wordCount": 1816,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -111,9 +111,9 @@
           "description": "Build a Practical NFT Ticketing Service with Solidity and React",
           "link": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 3285,
+          "wordCount": 2691,
           "title": "Build a Practical NFT Ticketing",
-          "imageUrl": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1643223614/course-resources/build-an-nft-based-ticketing-system-1a2f387c/og-image--build-an-nft-based-ticketing-system_2x.png"
+          "imageUrl": "https://og-image-react-egghead.now.sh/playlists/build-an-nft-based-ticketing-system-1a2f387c?v=20201103"
         },
         {
           "id": "https://www.encode.club/encode-bootcamps",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 1857,
+          "wordCount": 2023,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/f1ed14a1e62228d087bd00fed0bc1e568472db4f07ed05618e3418d1f88524a6/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 537,
+          "wordCount": 535,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -181,7 +181,7 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 2652,
+          "wordCount": 2771,
           "title": "buildspace",
           "imageUrl": "https://framerusercontent.com/modules/kADP7da4j9rbsXdQ05Kv/enLdYtFPcpLQZiKgJhg9/assets/Gcd5kwF1v08DCMGFwxtyl93bpIQ.png"
         },
