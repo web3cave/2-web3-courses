@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 1797,
+          "wordCount": 1821,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,9 +141,9 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 1858,
+          "wordCount": 2024,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/8285df5ccde75115608166e861f6d9fc8fc2c1c1826b51bdc62782292cef22de/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/9537a50ebc14a7852bf60772dd3da259c339acf2ff9d6bd9885db2ba50ef4022/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 535,
+          "wordCount": 538,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 14254,
+          "wordCount": 14207,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
