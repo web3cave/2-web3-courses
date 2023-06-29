@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 1821,
+          "wordCount": 1797,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,9 +141,9 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 2024,
+          "wordCount": 1858,
           "title": "Enterprise Blockchain Technologies",
-          "imageUrl": "https://opengraph.githubassets.com/9537a50ebc14a7852bf60772dd3da259c339acf2ff9d6bd9885db2ba50ef4022/hyperledger-labs/university-course"
+          "imageUrl": "https://opengraph.githubassets.com/de626b1111eaec4fe403acdb391443d7ad5b29b3dd2f052d92e5d9ef67521760/hyperledger-labs/university-course"
         },
         {
           "id": "https://www.defi-academy.com/",
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 538,
+          "wordCount": 537,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -181,7 +181,7 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 2905,
+          "wordCount": 2890,
           "title": "buildspace",
           "imageUrl": "https://framerusercontent.com/modules/kADP7da4j9rbsXdQ05Kv/enLdYtFPcpLQZiKgJhg9/assets/Gcd5kwF1v08DCMGFwxtyl93bpIQ.png"
         },
