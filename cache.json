@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 1808,
+          "wordCount": 1811,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 2024,
+          "wordCount": 1958,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/de626b1111eaec4fe403acdb391443d7ad5b29b3dd2f052d92e5d9ef67521760/hyperledger-labs/university-course"
         },
@@ -151,9 +151,9 @@
           "description": "Learn how to design and create decentralized finance platforms on the Ethereum Blockchain",
           "link": "https://www.defi-academy.com/",
           "publishedOn": "2023-06-02T06:08:53.000Z",
-          "wordCount": 7688,
+          "wordCount": null,
           "title": "Defi Academy",
-          "imageUrl": "https://s3.amazonaws.com/thinkific-import/279696/Xv8Tb6nKQ2eJZAhnlBdb_undraw_researching_22gp_4371ea2bfc6ee2c83bad983260e60a40_png"
+          "imageUrl": null
         },
         {
           "id": "https://proto.school/course/ipfs",
