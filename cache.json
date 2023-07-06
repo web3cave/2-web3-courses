@@ -121,7 +121,7 @@
           "description": "Apply for our free intensive bootcamps\nand become a web3 developer!",
           "link": "https://www.encode.club/encode-bootcamps",
           "publishedOn": "2023-07-02T06:08:58.000Z",
-          "wordCount": 1456,
+          "wordCount": 1435,
           "title": "Encode Bootcamps",
           "imageUrl": "http://static1.squarespace.com/static/5f9bcc27c14fc6134658484b/t/5fd87e43c1688b1bab9939ac/1608550059538/Social_banner_01.jpg?format=1500w"
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-07-02T06:08:58.000Z",
-          "wordCount": 2024,
+          "wordCount": 1858,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/de626b1111eaec4fe403acdb391443d7ad5b29b3dd2f052d92e5d9ef67521760/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-07-02T06:08:58.000Z",
-          "wordCount": 546,
+          "wordCount": 547,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
