@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-07-02T06:08:58.000Z",
-          "wordCount": 537,
+          "wordCount": 535,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -221,7 +221,7 @@
           "description": "Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!",
           "link": "https://consensys.net/academy/",
           "publishedOn": "2023-07-02T06:08:58.000Z",
-          "wordCount": null,
+          "wordCount": 2368,
           "title": "Blockchain Developer Online Bootcamp",
           "imageUrl": null
         },
