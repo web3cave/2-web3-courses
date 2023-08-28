@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-08-02T06:08:47.000Z",
-          "wordCount": 538,
+          "wordCount": 532,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -231,9 +231,9 @@
           "description": "DECAL COURSES ON CAMPUS AND EDX COURSES ONLINE",
           "link": "https://blockchain.berkeley.edu/courses/",
           "publishedOn": "2023-08-02T06:08:47.000Z",
-          "wordCount": null,
+          "wordCount": 12,
           "title": "Blockchain Berkeley",
-          "imageUrl": null
+          "imageUrl": "/fb-og-image.png"
         },
         {
           "id": "https://a16z.com/crypto-startup-school/",
