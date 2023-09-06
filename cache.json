@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 1808,
+          "wordCount": 1788,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -111,9 +111,9 @@
           "description": "Build a Practical NFT Ticketing Service with Solidity and React",
           "link": "https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": null,
+          "wordCount": 3043,
           "title": "Build a Practical NFT Ticketing",
-          "imageUrl": null
+          "imageUrl": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1643223614/course-resources/build-an-nft-based-ticketing-system-1a2f387c/og-image--build-an-nft-based-ticketing-system_2x.png"
         },
         {
           "id": "https://www.encode.club/encode-bootcamps",
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 1891,
+          "wordCount": 1991,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/3048ae760c5a6608b8811844abff79df4263615b4366db956f6bddfa741d2132/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 542,
+          "wordCount": 544,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
