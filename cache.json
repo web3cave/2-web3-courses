@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 1991,
+          "wordCount": 1891,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/3048ae760c5a6608b8811844abff79df4263615b4366db956f6bddfa741d2132/hyperledger-labs/university-course"
         },
@@ -191,9 +191,9 @@
           "description": "Fast-Track\nYour Ethereum Developer Career\nJoin a 100% live and online Bootcamp\nAcquire highly desired skills in blockchain and smart contracts",
           "link": "https://www.chainshot.com/",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 50,
+          "wordCount": null,
           "title": "ChainShot",
-          "imageUrl": "http://res.cloudinary.com/divzjiip8/image/upload/v1529612088/center-out_lqp2jr.png"
+          "imageUrl": null
         },
         {
           "id": "https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/",
