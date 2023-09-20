@@ -81,7 +81,7 @@
           "description": "A  Web3 WIKI for Developer",
           "link": "http://wiki.antcave.club/",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 1802,
+          "wordCount": 1787,
           "title": "Web3Wiki",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.",
           "link": "https://github.com/hyperledger-labs/university-course",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 2057,
+          "wordCount": 1891,
           "title": "Enterprise Blockchain Technologies",
           "imageUrl": "https://opengraph.githubassets.com/3048ae760c5a6608b8811844abff79df4263615b4366db956f6bddfa741d2132/hyperledger-labs/university-course"
         },
@@ -171,7 +171,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 534,
+          "wordCount": 536,
           "title": "CryptoHack",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -181,9 +181,9 @@
           "description": "The world's largest on-chain network.\nIf you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.",
           "link": "https://buildspace.so/",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 3647,
+          "wordCount": 4789,
           "title": "buildspace",
-          "imageUrl": "https://framerusercontent.com/modules/kADP7da4j9rbsXdQ05Kv/TtXpQBjdMGLG22KZHnWE/assets/hVZhqIkIO6TOhZgo1umiX4U0hTk.png"
+          "imageUrl": "https://framerusercontent.com/images/hVZhqIkIO6TOhZgo1umiX4U0hTk.png"
         },
         {
           "id": "https://www.chainshot.com/",
@@ -211,7 +211,7 @@
           "description": "Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming",
           "link": "https://www.coursera.org/specializations/blockchain",
           "publishedOn": "2023-09-02T06:07:50.000Z",
-          "wordCount": 13190,
+          "wordCount": 13156,
           "title": "Blockchain Specialization",
           "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~blockchain/XDP~SPECIALIZATION!~blockchain.jpeg"
         },
